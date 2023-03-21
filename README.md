@@ -1,6 +1,6 @@
 # Password Generator
 
-This is a simple password generator GUI application written in Python. It allows users to generate random passwords of varying lengths and complexity.
+This is a simple password generator GUI application written in Python.
 
 ## Installation
 
